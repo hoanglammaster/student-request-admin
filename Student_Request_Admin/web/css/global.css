@@ -1,0 +1,50 @@
+/****************************************************************
+* Copyright [2021] [FPT University]          
+*                                                             
+* This file create by [Hoang Lam]                                 
+* If you want to use this file in your project,                
+* please contact to <https://www.facebook.com/hoanglammaster> 
+* or <hoanglammaster@gmail.com>          
+* Do not use without permission                                
+*                                                             
+* “All I know is that I do not know anything”― Socrates      
+*****************************************************************/
+/* 
+    Created on : Jul 11, 2021, 10:19:42 AM
+    Author     : Hoang Lam
+*/
+
+*{
+   box-sizing: border-box;
+}
+h3,h4{
+    font-weight: 400;
+}
+ul{
+    padding: 0;
+}
+
+.form__container{
+    width: 100%;
+    text-align: center;
+    margin-top: -130px;
+    margin-bottom: 60px;
+}
+.form__title--big{
+    font-weight: 400;
+    font-size: 30px;
+    color: rgb(0,0,255);
+}
+.blue__mark{
+    color: rgb(0,0,255);
+}
+.weight__bold{
+    font-weight: 800;
+}
+.red__mark{
+    color: rgb(255,0,0);
+}
+.green__mark{
+    color:rgb(0, 119, 0);
+   
+}

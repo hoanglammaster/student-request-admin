@@ -1,0 +1,1016 @@
+AAD305b|Final Project - Automotive Application Development|5|6950000|9035000
+ACC101|Principles of Accounting|3|4170000|5421000
+ACC191|Principles of Accounting and Finance|3|4170000|5421000
+ACC302|Managerial Accounting|3|4170000|5421000
+ACC305|Financial Statement Analysis|3|4170000|5421000
+ADG201|Brand Identity Design|3|4170000|5421000
+ADG301|Book and Packaging Design|3|4170000|5421000
+ADH301|Mobility Applications Design 1|3|4170000|5421000
+ADI201|Brand Identity Design|3|4170000|5421000
+ADP201|Audio Production|3|4170000|5421000
+ADT401|Mobility Applications Design 2|3|4170000|5421000
+AET101|Aesthetic|2|2780000|3614000
+AET102|Aesthetic|3|4170000|5421000
+AFA201|Human Anatomy for Artis|3|4170000|5421000
+AGD301|Information Graphic Design|3|0|0| 
+AI-000001|Elective 1|3|0|0
+AI-000002|Elective 2|3|0|0
+AI-000003c|Elective 3|3|0|0
+AI-000004|Elective 4|3|0|0
+AI-000005|Elective 5|3|0|0
+AIG201|Artificial Intelligence|3|4170000|5421000
+AIG201c|Artificial Intelligence|3|4170000|5421000
+AIG201m|Artificial Intelligence|3|4170000|5421000
+AIL301|Machine Learning|3|4170000|5421000
+AIL301b|Machine Learning|3|4170000|5421000
+AIL301b|Machine Learning|3|4170000|5421000
+AIL302|Machine Learning|3|4170000|5421000
+AIL302m|Machine Learning|3|4170000|5421000
+AIP391|AI programming project|3|4170000|5421000
+AIP490|AI Capstone Project|10|13900000|18070000
+ANA401|3D Character Animation|3|4170000|5421000
+ANB401|Background Painting for Animation|3|4170000|5421000
+ANC301|Character Development|3|4170000|5421000
+ANM301|3D Modeling & Texturing (Maya)|3|4170000|5421000
+ANM312|Visual tool 3D|3| | 
+ANM322|3D Modeling & Shading|3| | 
+ANR401|Introduction to Rigging|3|4170000|5421000
+ANS201|Idea & Script Development|3|4170000|5421000
+ANS301|Storyboarding|3|4170000|5421000
+ANS391|Idea & Script Development|3|4170000|5421000
+ANT401|Traditional Animation Principles|3|4170000|5421000
+ANV301|Visual Development for Computer Animation|3|4170000|5421000
+ATC201|Automata Theory and Computational Complexity|3|4170000|5421000
+AVC101|Asian Culture|3|4170000|5421000
+BD201|Football|3| | 
+BDM201|Business Decision Making|3|4170000|5421000
+BDP301b|Blockchain Basics|3|4170000|5421000
+BDP301c|Blockchain Basics|3|4170000|5421000
+BDP302b|Smart Contract|3|4170000|5421000
+BDP303b|Decentralized Application Development (Dapps)|3|4170000|5421000
+BDP304b|Blockchain Platforms|1|1390000|1807000
+BDP306b|Final Project - Blockchain Development in Finance|5|6950000|9035000
+BKG201|Principles of Banking|3|4170000|5421000
+BKG201|Principles of Banking|3|4170000|5421000
+BKG201|Principles of Banking|3|4170000|5421000
+BKG301|Bank Management|3|4170000|5421000
+BKG301|Bank Management|3|4170000|5421000
+BKG302|Investment Project Appraisal|3|4170000|5421000
+BKG304|Bank Lending|3|4170000|5421000
+BKG304|Bank Lending|3|4170000|5421000
+BRA301|Brand Management|3|4170000|5421000
+BSI201|Business Statistics|3|4170000|5421000
+BUE201|Business ethics|3|4170000|5421000
+BUSI1317.1|Strategic Management 1|3|0|0
+BUSI1317.2|Strategic Management 2|3|0|0
+BUSI1323|Leadership|3|0|0
+CAA201|Communications and advertising|3|4170000|5421000
+CAD201|Water Color|3|4170000|5421000
+CCC101|Cross Culture Communications|3|4170000|5421000
+CCM201|Communication crisis management|3|4170000|5421000
+CCO201|Corporate Communication|3|4170000|5421000
+CEA201|Computer Organization and Architecture|3|4170000|5421000
+CEA201|Computer Organization and Architecture|3|4170000|5421000
+CEC201|Circuits and Signals|3|4170000|5421000
+CEC201|Circuits and Signals|3|4170000|5421000
+CES201|System Support and Trouble Shooting for Windows Server 2012|3|4170000|5421000
+CES202|System Support and Trouble Shooting|3|4170000|5421000
+CF001|Programming with Alice|1|1390000|1807000
+CF100|Introduction to Computing|3|4170000|5421000
+CF101|Programming Fundamentals|3|4170000|5421000
+CF102|Object-Oriented Paradigm|3|4170000|5421000
+CF103|Data Structures and Algorithms|3|4170000|5421000
+CF104|Operating Systems and Network|4|5560000|7228000
+CF104-1|Operating Systems|2|2780000|3614000
+CF104-2|Networking|2|2780000|3614000
+CF105|Introduction to Databases|4|5560000|7228000
+CF110|Core Java|2|2780000|3614000
+CF111|Advanced Java|2|2780000|3614000
+CF112|.NET and C#|4|5560000|7228000
+CF201|Object-Oriented Paradigm|4|5560000|7228000
+CF205|Java Application Development|4|5560000|7228000
+CF206|.NET and C#|4|5560000|7228000
+CGG201|Computer Graphics|3|4170000|5421000
+CHN111|Chinese Elementary 1|3|4170000|5421000
+CHN111|Chinese Elementary 1|3|4170000|5421000
+CHN111|Chinese Elementary 1|3|4170000|5421000
+CHN113|Chinese Elementary 1|3|4170000|5421000
+CHN122|Chinese Elementary 2|3|4170000|5421000
+CHN122|Chinese Elementary 2|3|4170000|5421000
+CHN122|Chinese Elementary 2|3|4170000|5421000
+CHN132|Chinese Elementary 3|3|4170000|5421000
+CHN132|Chinese Elementary 3|3|4170000|5421000
+CHN141|Chinese Elementary 4|3|4170000|5421000
+CIH201|Contemporary issues in hotel and tourism management|3|0|0 
+CMC201c|Creative Writing|3|4170000|5421000
+CO-000004|English 4|3|0|0
+CO-000005|Business English|3|0|0
+CO-000006|English for Information and Communication Technology (ICT)|3|0|0
+CO-000007|Sounds and Words (phonetics, phonology and morphology)|3|0|0
+CO-000008|British Cultures and Literature|3|0|0
+CO-000009|Sociolinguistics|3|0|0
+CO-000010|English Language and Communication Project|3|0|0
+CO-000011|American Cultures and Literature|3|0|0
+CO-000012|Translation|3|0|0
+CO-000013|Structures and Meanings (Syntax, Semantics and Pragmatics)|3|0|0
+CO-000014|Intercultural communication|3|0|0
+CO-000015|Interpretation|3|0|0
+CO-000016|Software Development Process|3|0|0
+CO-000017|Introduction to International Business|3|0|0
+CO-000018|Second foreign language 1|3|0|0
+CO-000019|Business Project|3|0|0
+CO-000020|Cross cultural management|3|0|0
+CO-000021|Information Systems|3|0|0
+CO-000022|Global Business Environment|3|0|0
+CO-000023|Second foreign language (2)|3|0|0
+CO-000024|Vietnamese cultural base|3|0|0
+CO-000025|Introduction to International Business|3|0|0
+CO-000030|English 4.1|3|0|0
+CO-000031|English 4.1|3|0|0
+CO-000032|English 4.1|3|0|0
+CO-000033|English 4.1|3|0|0
+CO-000034|Business writing|3|0|0
+CO-000035|Translation 1|3|0|0
+CO-000036|Interpretation 1|3|0|0
+CO-000037|Foreign language 2_1|3|0|0
+CO-000038|Effective Presentation Skills|3|0|0
+CO-000039|Translation 2|3|0|0
+CO-000040|Interpretation 2|3|0|0
+CO-000041|Foreign language 2_2|3|0|0
+CO-000042|Foreign language 2_3|3|0|0
+CO-000043|English for international standardized tests|3|0|0
+COM201|Communication Management|3|4170000|5421000
+COMP101|CompTIA A+|1|1390000|1807000
+COV111|Chess 1|2|2780000|3614000
+COV111|Chess 1|2|2780000|3614000
+COV121|Chess 2|2|2780000|3614000
+COV121|Chess 2|2|2780000|3614000
+COV131|Chess 3|2|2780000|3614000
+COV131|Chess 3|2|2780000|3614000
+CPP101b|Basic C++ Programming|3|4170000|5421000
+CPP201b|Advanced C++ Programming|3|4170000|5421000
+CQT201b|Create UI in C++ using Qt/QML|3|4170000|5421000
+CRY301|Cryptography and Applications|3|4170000|5421000
+CRY302|Introduction to Applied Cryptography|3|4170000|5421000
+CRY302c|Applied Cryptography|3|4170000|5421000
+CRY303c|Introduction to Applied Cryptography|3|4170000|5421000
+CS-000001|Automata Theory and Computational Complexity|3|0|0
+CS-000002|Python Programming|3|0|0
+CS-000003|Systems Programming|3|0|0
+CS-000004|IT elective 2 (Machine Learning)|3|0|0
+CS-00002|Free Elective 2|3|0|0
+CSD201|Data Structures and Algorithms|3|4170000|5421000
+CSD202|Data structures and algorithms (In C++)|3|4170000|5421000
+CSD301|Advanced Algorithms|3|4170000|5421000
+CSD301|Advanced Algorithms|3|4170000|5421000
+CSI101|Connecting to Computer Science|3|4170000|5421000
+CSI102|Introduction to Informatics|3|4170000|5421000
+CSI102|Introduction to Informatics|3|4170000|5421000
+CSI102|Introduction to Informatics|3|4170000|5421000
+CSI103|Computer science fundamentals|3|4170000|5421000
+CSI103|Computer science fundamentals|3|4170000|5421000
+CSI104|Introduction to Computer Science|3|4170000|5421000
+CSL201|Programming languages|3|4170000|5421000
+CST491|Graduation Assignment for CS|10|13900000|18070000
+DBD301|Advanced Database|3|4170000|5421000
+DBI201|Introduction to Databases|4|5560000|7228000
+DBI202|Introduction to Databases|3|4170000|5421000
+DBM301|Data mining|3|4170000|5421000
+DBS401|Database Security|3|4170000|5421000
+DBW301|Data warehouse|3|4170000|5421000
+DGT201|Digital Fundamentals|3|4170000|5421000
+DGT201|Digital Fundamentals|3|4170000|5421000
+DGT202|Digital Design|3|4170000|5421000
+DGT301|Digital Signal Processing|3|4170000|5421000
+DGT302|Visual Effects - Principles of Compositing|3|4170000|5421000
+DM-0001c|Elective 1|3|0|0
+DM-0002|Elective 2|3|0|0
+DM-0003|Elective 3|3|0|0
+DM-0004|Elective 4|3|0|0
+DM-0005|Elective 5|3|0|0
+DM101|Discrete Mathematics 1|3|4170000|5421000
+DM102|Discrete Mathematics 2|3|4170000|5421000
+DMS401|Applied Data Mining for Information assurance|3|4170000|5421000
+DRA301|Character Design|3|4170000|5421000
+DRD201|Drawing - Speed drawing|3|4170000|5421000
+DRD201|Drawing - Speed drawing|3|4170000|5421000
+DRD202|Drawing - Speed drawing|6|8340000|10842000
+DRD203|Drawing - Speed drawing|3|4170000|5421000
+DRD204|Drawing - Speed drawing|3|4170000|5421000
+DRF201|Drawing - Figure drawing|3|4170000|5421000
+DRP101|Drawing - Plaster Statue, Portrait|3|4170000|5421000
+DRS101|Drawing - Form, Still-life|3|4170000|5421000
+DRS102|Drawing - Form, Still-life|3| | 
+DRW101|Hình họa cơ bản|3|4170000|5421000
+DRW201|Interediate Drawing|3|4170000|5421000
+DTG101|Digital Tool - 2D|3|4170000|5421000
+DTG102|Visual Design Tools|3|4170000|5421000
+DTG111|Visual Design Tools 1|3|4170000|5421000
+DTG121|Visual Design Tools 2|3|4170000|5421000
+DTG201|3D Digital Tool|3|4170000|5421000
+DTG301|Digital Tool - Interactive|3|4170000|5421000
+DTG302|Visual Effects - Principles of Compositing|3|4170000|5421000
+DTG303|Principles of Animation|3|4170000|5421000
+E-AE1|Advanced English 1|2|2780000|3614000
+E-AE2|Advanced English 2|2|2780000|3614000
+EAL201|Academic Listening|3|4170000|5421000
+EAW211|Academic Paper 1|3|4170000|5421000
+EAW221|Academic Writing 2|3|4170000|5421000
+EB111|Elementary Business English|2|2780000|3614000
+EB112|Elementary Business English|3|2780000|3614000
+EB121|Pre-intermediate Business English|2|2780000|3614000
+EB131|Intermediate Business English|2|2780000|3614000
+EB141|Upper-intermediate Business English|2|2780000|3614000
+EB211|Pre-intermediate Business English|2|2780000|3614000
+EB221|Intermediate Business English|2|2780000|3614000
+EB231|Upper Intermediate Business English|2|2780000|3614000
+EB241|Upper Intermediate Business English 2|2|2780000|3614000
+EB331|MKL Intermediate Business English 3|3|4170000|5421000
+EBC301|Business English Communication|3|4170000|5421000
+EBC301c|Business English Communication|3|4170000|5421000
+ECB101|Culture of English-Speaking Countries|3|4170000|5421000
+ECC301|Cross-cultural Communication|3|4170000|5421000
+ECC301c|Cross-cultural communication|3|4170000|5421000
+ECM301|Mobile Communications|3|4170000|5421000
+ECM391|Wireless and Mobile Systems|3|4170000|5421000
+ECM392|Wireless and Mobile Communication Security|3|4170000|5421000
+ECO101|Business environment|3|4170000|5421000
+ECO102|Business Environment|3|4170000|5421000
+ECO111|Microeconomics|3|4170000|5421000
+ECO111|Microeconomics|3|4170000|5421000
+ECO121|Basic Macro Economics|3|4170000|5421000
+ECO201|International Economics|3|4170000|5421000
+ECO201|International Economics|3|4170000|5421000
+ECO202|Macroeconomics|3|4170000|5421000
+ECO301|Optical Communications|3|4170000|5421000
+ECP491|Capstone Project for EC|10|13900000|18070000
+ECR201|Critical Reading|3|4170000|5421000
+ECR211|Critical Reading 1|3|4170000|5421000
+ECR221|Critical Reading 2|3|4170000|5421000
+ECS211|Communications Systems 1|3|4170000|5421000
+ECS211|Communications Systems 1|3|4170000|5421000
+EDT202c|Công nghệ số mới nổi|3|4170000|5421000
+EEA211|Electronics 1|3|4170000|5421000
+EEA221|Electronics 2|3|4170000|5421000
+EIT201|Ethics in Information Technology|3|4170000|5421000
+EIT491|English for Standardized Tests|3|4170000|5421000
+EL-000001|English 1|12|0|0
+EL-000002|English 2|12|0|0
+EL-000003|English 3|12|0|0
+EL-000004|English 4|12|0|0
+EL-0001|Elective 1|3|0|0
+EL-0002|Elective 2|3|0|0
+EL-0003|Elective 3|3|0|0
+EL-0004|Elective 4|3|0|0
+EL-0005|Elective 5|3|0|0
+ELI301|Interpretation 1|3|4170000|5421000
+ELI301|Interpretation 1|3|4170000|5421000
+ELI401|Interpretation 2|3|4170000|5421000
+ELR301|Research Methods|3|4170000|5421000
+ELS401c|Academic Listening and Speaking|3|4170000|5421000
+ELT301|Translation 1|3|4170000|5421000
+ELT401|Translation 2|3|4170000|5421000
+ELT491|Graduation Thesis|5|6950000|9035000
+ELT492|Graduation Thesis - English studies|10|13900000|18070000
+EN011|Top Notch Fundamental|0|10350000|10350000
+EN021|Top Notch 1|0|10350000|10350000
+EN031|Top Notch 2|0|10350000|10350000
+EN041|Top Notch 3|0|10350000|10350000
+EN051|Summit 1|0|10350000|10350000
+EN062|Summit 2|0|10350000|10350000
+EN151|Academic English|3|5560000|7228000
+EN161|Advanced Academic English|4|5560000|7228000
+EN162|Advanced Practical English|4|5560000|7228000
+ENB101|Business writing|3|4170000|5421000
+ENB102|Business Writing|3|4170000|5421000
+ENB301|Business Writing|3|4170000|5421000
+ENG301|Advanced English Grammar|3|4170000|5421000
+ENG302c|Advanced English Grammar|3|4170000|5421000
+ENH301|BUSINESS ENGLISH FOR HOSPITALITY - Intermediate|3|4170000|5421000
+ENH401|Business English for Hospitality - Upper Intermediate|3|4170000|5421000
+ENI101|Elementary Business English|2|4170000|5421000
+ENI101|Elementary Business English|3|4170000|5421000
+ENI201|Pre-intermediate Business English|3|4170000|5421000
+ENI201|Pre-intermediate Business English|3|4170000|5421000
+ENI201|Pre-intermediate Business English|3|4170000|5421000
+ENI301|Intermediate Business English|3|4170000|5421000
+ENI401|Upper-intermediate Business English|3|4170000|5421000
+ENI401|Upper-intermediate Business English|3|4170000|5421000
+ENI511|Listening Speaking 5 (Part 1/2)|3|4170000|5421000
+ENI512|Listening Speaking 5 (Part 2/2)|3|4170000|5421000
+ENI521|Listening Speaking 5 (Part 2/2)|3|4170000|5421000
+ENL101|Academic English|3|4170000|5421000
+ENL111|Academic English|3|4170000|5421000
+ENL111|Academic English|3|4170000|5421000
+ENL111|Academic English|3|4170000|5421000
+ENL111|Academic English|3|4170000|5421000
+ENL112|Advanced Academic English|3|4170000|5421000
+ENL112|Advanced Academic English|3|4170000|5421000
+ENL201|Advanced Academic English|3|4170000|5421000
+ENM101|Elementary Business English|3|4170000|5421000
+ENM101|Elementary Business English|3|4170000|5421000
+ENM101|Elementary Business English|3|4170000|5421000
+ENM101c|Business English 1|3|4170000|5421000
+ENM111|Elementary Business English 1|3|4170000|5421000
+ENM112|Elementary Business English 1|3|4170000|5421000
+ENM112c|Business English 2|3|4170000|5421000
+ENM121|Elementary Business English 2|3|4170000|5421000
+ENM201|Pre-intermediate Business English|3|4170000|5421000
+ENM211|Pre-Intermediate Business English 1|3|4170000|5421000
+ENM211c|Business English Communication 1|3|4170000|5421000
+ENM212|Pre-Intermediate Business English 2|3|4170000|5421000
+ENM212|Pre-Intermediate Business English 2|3|4170000|5421000
+ENM221|Pre-intermediate Business English 2|3|4170000|5421000
+ENM221c|Business English Communication 2|3|4170000|5421000
+ENM301|Intermediate Business English|3|4170000|5421000
+ENM401|Upper Intermediate Business English|3|4170000|5421000
+ENM411|MKL Upper Intermediate Business English 4|3|4170000|5421000
+ENM421|Upper Intermediate Business English 2|3|4170000|5421000
+ENM511|Business English 6 - Advanced|3|4170000|5421000
+ENO201|Advanced Practical English|3|4170000|5421000
+ENP101|Phonetics|3|4170000|5421000
+ENP102|Phonetics|3|4170000|5421000
+ENR101|Reading 1|3|4170000|5421000
+ENR201|Reading 2|3|4170000|5421000
+ENR301|Skillfull 3 - Reading 3|3|4170000|5421000
+ENR401|Skillful 4: Reading|3|4170000|5421000
+ENR501|Reading 5|3|4170000|5421000
+ENS111|Skillfull 1 - Listening Speaking 1 (Part 1/2)|3|4170000|5421000
+ENS121|Skillfull 1- Listening Speaking 1 (Part 2/2)|3|4170000|5421000
+ENS211|Skillfull 2 - Listening & Speaking 1|3|4170000|5421000
+ENS212|Skillfull 2 - Reading & Writing 1|3|4170000|5421000
+ENS221|Skillfull 2 - Listening & Speaking 2|3|4170000|5421000
+ENS222|Skillfull 2 - Reading & Writing 2|3|4170000|5421000
+ENS311|Skillfull 3 - Listening & Speaking 1|3|4170000|5421000
+ENS311|Skillfull 3 - Listening & Speaking 1|3|4170000|5421000
+ENS312|Skillfull 3 - Reading & Writing 1|3|4170000|5421000
+ENS321|Skillfull 3 - Listening & Speaking 2|3|4170000|5421000
+ENS321|Skillfull 3 - Listening & Speaking 2|3|4170000|5421000
+ENS322|Skillfull 3 - Reading & Writing 2|3|4170000|5421000
+ENS403|Skillfull 4: Reading|3|4170000|5421000
+ENS411|Skillfull 4: Listening & Speaking (Part 1/2)|3|4170000|5421000
+ENS412|Skillfull 4: Reading & Writing (Part 1/2)|3|4170000|5421000
+ENS421|Skillfull 4: Listening & Speaking (Part 2/2)|3|4170000|5421000
+ENS422|Skillfull 4: Reading & Writing (Part 2/2)|3|4170000|5421000
+ENT001|Top Notch Fundamental|0|10350000|10350000
+ENT101|Top Notch 1|0|10350000|10350000
+ENT102|Top Notch 1|0|10350000|10350000
+ENT102-ST07|Top Notch 1|3|10350000|10350000
+ENT103|Topnotch 1 - Fundamentals|0|10350000|10350000
+ENT104|Top Notch 1|0|10350000|13455000
+ENT201|Top Notch 2|0|10350000|10350000
+ENT202|Top Notch 2|0|10350000|10350000
+ENT203|Top Notch 2|0|10350000|10350000
+ENT203c|Top Notch 2|0|10350000|10350000
+ENT301|Top Notch 3|0|10350000|10350000
+ENT301-K7|Top Notch 3|0|10350000|10350000
+ENT302|Top Notch 3|0|10350000|10350000
+ENT303|Top Notch 3|0|10350000|10350000
+ENT401|Summit 1|0|10350000|10350000
+ENT401-K7|Summit 1|0|10350000|10350000
+ENT401-ST08|Summit 1|3|10350000|10350000
+ENT403|Summit 1|0|10350000|10350000
+ENT501|Summit 2|0|10350000|10350000
+ENT503|Summit 2|0|10350000|10350000
+ENW101|Writing 1|3|4170000|5421000
+ENW201|Writing 2|3|4170000|5421000
+ENW301|Skillfull 3 - Writing 3|3|4170000|5421000
+ENW401|Writing 4|3|4170000|5421000
+ENW491|Writing Skill|3|4170000|5421000
+ENW492|Writing Research Papers|3|4170000|5421000
+ENW501|Writing 5|3|4170000|5421000
+EPC301|Persuasive Communication|3|4170000|5421000
+EPE101|Professional Ethics|3|4170000|5421000
+EPE101c|Professional Ethics|3|4170000|5421000
+ERW411|Read Think Write 1|3|4170000|5421000
+ERW421|Read Think Write 2|3|4170000|5421000
+ES301|Digital Fundamentals|3|4170000|5421000
+ES311|Embedded System Hardware|3|4170000|5421000
+ES312|Embedded Software Development|3|4170000|5421000
+ES313|Digital Signal Processing|3|4170000|5421000
+ES321|Smart Cards|3|4170000|5421000
+ES322|Wireless & Mobile Communication|3|4170000|5421000
+ESH201|Embedded system hardware|3|4170000|5421000
+ESH391|Smart Cards|3|4170000|5421000
+ESL101|Sociolinguistics|3|4170000|5421000
+ESP301|Embedded system programming|3|4170000|5421000
+ESS301|Embedded software development|3|4170000|5421000
+EST401|English for Standardized Tests|3|4170000|5421000
+ETR401|Entrepreneurship|3|4170000|5421000
+ETR401|Entrepreneurship|3|4170000|5421000
+ETR402|software entrepreneurship|3|4170000|5421000
+EVN201|Event planning|3|4170000|5421000
+EVN202|Conventions and Tradeshows|3| | 
+EVN203|Special Events and Wedding Production|3| | 
+EWR101|Academic English (Writing)|3|4170000|5421000
+EXO401|Training Eos_Client|0|0|0
+FBM201|Food and Beverage Operations Management|3|4170000|5421000
+FE-000001|Free Elective 1|3|0|0
+FE-000002|Free Elective 2|3|0|0
+FE-000003|Free Elective 3|3|0|0
+FE-000004|Free Elective 4|3|0|0
+FIM301|Valuation and financial modeling|3|4170000|5421000
+FIM301|Valuation and financial modeling|3|4170000|5421000
+FIM301|Valuation and financial modeling|3|4170000|5421000
+FIN201|Monetary Economics and Global Economy|3|4170000|5421000
+FIN201|Monetary Economics and Global Economy|3|4170000|5421000
+FIN202|Principles of Corporate Finance|3|4170000|5421000
+FIN202|Principles of Corporate Finance|3|4170000|5421000
+FIN301|Financial Markets and Institutions|3|4170000|5421000
+FIN301|Financial Markets and Institutions|3|4170000|5421000
+FIN303|Advanced Corporate Finance|3|4170000|5421000
+FIN303|Advanced Corporate Finance|3|4170000|5421000
+FIN303|Advanced Corporate Finance|3|4170000|5421000
+FIN391|Applied Corporate Finance|3|4170000|5421000
+FIN402|Derivatives|3|4170000|5421000
+FIN402|Derivatives|3|4170000|5421000
+FIT391|Financial Technology|3|4170000|5421000
+FMM101|Fundamentals of Multimedia|3|4170000|5421000
+FRS301|Digital Forensics|3|4170000|5421000
+FRS401|Network Forensics|3|4170000|5421000
+FUN131b|Becoming a Digital Citizen|3|4170000|5421000
+GBE101|International Business Environment|3|4170000|5421000
+GD-000001c|Elective 1|3|0|0
+GD-000002|Elective 2|3|0|0
+GD-000003|Elective 3|3|0|0
+GD-000004|Elective 4|3|0|0
+GD-000005|Elective 5|3|0|0
+GDA401|Mobility Applications Design|6|8340000|10842000
+GDF101|Fundamental of Graphic Design|3|4170000|5421000
+GDF102|Fundamental of Graphic Design|3|4170000|5421000
+GDG401|Design 2: 3D Animation|6|8340000|10842000
+GDP101|Applied Graphic Design|3|4170000|5421000
+GDP491|Capstone Project|10|13900000|18070000
+GDQP|Military training|0|3450000|4485000
+GDS301|Design 1: Scenario Design & Animation|6|8340000|10842000
+GDW401|Web Design|6|8340000|10842000
+Global Citizen|.|0|0|0
+Global Citizen LUK5|.|0|0|0
+GRA491|Graduation Thesis|5|6950000|9035000
+GRA492|Graduation Thesis|5|6950000|9035000
+GRA493|Graduation Assignment|5|6950000|9035000
+GRA494|Graduation Thesis|5|6950000|9035000
+GRA495|Graduation Thesis|5|6950000|9035000
+GRA496|Graduation Thesis|5|6950000|9035000
+GRA497|Capstone Project - Multimedia and Communication-|10|13900000|18070000
+GRA497|Capstone Project - Multimedia and Communication-|10|13900000|18070000
+GRA498|Graduation Thesis|5|6950000|9035000
+GRB491|Graduation Thesis - Finance Banking|10|13900000|18070000
+GRF491|Graduation Thesis - Finance|10|13900000|18070000
+GRH491|Graduation Thesis - Hotel Management|10|13900000|18070000
+GRI491|Graduation Thesis - International Business|10|13900000|18070000
+GRM491|Graduation Thesis - Marketing|10|13900000|18070000
+GRP490|Graduation thesis (Business plan)|10|13900000|18070000
+HCI201|Human-Computer Interaction|3|4170000|5421000
+HCI201|Human-Computer Interaction|3|4170000|5421000
+HCI202|UI/UX|3|4170000|5421000
+HCM201|Ho Chi Minh Ideology|2|2780000|3614000
+HCM202|HCM Ideology|2|2780000|3614000
+HM-0001|Elective 1|3|0|0
+HM-0002|Elective 2|3|0|0
+HM-0003|Elective 3|3|0|0
+HM-0004|Elective 4|3|0|0
+HM-0005|Elective 5|3|0|0
+HMO102|Introduction to Tourism & Hospitality industry|3|4170000|5421000
+HOA101|Art History|3|4170000|5421000
+HOA102|Art History|3| | 
+HOD101|Design History|2|2780000|3614000
+HOD102|Design History|2|2780000|3614000
+HOD401|Ethical Hacking and Offensive Security|3|4170000|5421000
+HOM201|Hotel Operations Management|3|4170000|5421000
+HOM202|Hotel Operations Management|3|4170000|5421000
+HOM202|Hotel Operations Management|3|4170000|5421000
+HOM203|Managing Guest Experience|3|4170000|5421000
+HOM301c|Hotel Revenue Management|3|4170000|5421000
+HOM302|Service Operation Management|3| | 
+HRM201|Human Resource Management|3|4170000|5421000
+HRM201c|Human Resource Management|3|4170000|5421000
+HS111|Principles of Marxism - Leninism|3|4170000|5421000
+HS112|Principles of Marxism Leninism|3|4170000|5421000
+HS121|Hochiminh Ideology|2|2780000|3614000
+HS131|Revolutionary Line of CPV|3|4170000|5421000
+IA-000001c|Elective 1|3|0|0
+IA-000002|Elective 2|3|0|0
+IA-000003c|Elective 3|3|0|0
+IA-000004|Elective 4|3|0|0
+IA-000005|Elective 5|3|0|0
+IAA201|Risk-Vulnerability Analysis|3|4170000|5421000
+IAA202|Risk Management in Information Systems|3|4170000|5421000
+IAA301|Intelligence Analysics|3|4170000|5421000
+IAD101b|Intro to Automotive Application Development|1|1390000|1807000
+IAM301|Malware Analysis|3|4170000|5421000
+IAM302|Malware Analysis and Reverse Engineering|3|4170000|5421000
+IAO101|Information Assurance Overview|3|4170000|5421000
+IAO201c|Introduction to Information Assurance|3|4170000|5421000
+IAP201|Privacy and IT Ethics|3|4170000|5421000
+IAP301|Policy Development in Information Assurance|3|4170000|5421000
+IAP491|CAPSTONE PROJECT (For IA Specializations)|3|13900000|18070000
+IAP491|CAPSTONE PROJECT (For IA Specializations)|10|13900000|18070000
+IAR301|Incident Response|3|4170000|5421000
+IAR401|Incident Response|3|4170000|5421000
+IAT491|Graduate Project|10|13900000|18070000
+IAW301|Web security|3|4170000|5421000
+IB-0001c|Elective 1|3|0|0
+IB-0002|Elective 2|3|0|0
+IB-0003|Elective 3|3|0|0
+IB-0004|Elective 4|3|0|0
+IB-0005|Elective 5|3|0|0
+IBC201|Cross Cultural Management and Negotiation|3|4170000|5421000
+IBF301|International Finance|3|4170000|5421000
+IBI101|Introduction to International business|3|4170000|5421000
+IBS301|International Business Strategy|3|4170000|5421000
+IBS301m|International Business Strategy|3|4170000|5421000
+IEI301|Import and Export|3|4170000|5421000
+IHM101|Introduction to Hospitality industry|3|4170000|5421000
+IIP301|International payment|3|4170000|5421000
+IM1102|Internet Marketing|3|4170000|5421000
+IMP301|Image Processing|3|4170000|5421000
+IMP301c|Image processing|3|4170000|5421000
+INDU1130.1|International Human resource management 1|3|0|0
+INDU1130.2|International Human resource management 2|3|0|0
+IOP391|IoT application development project|3|4170000|5421000
+IOP490|IoT Capstone Project|10|13900000|18070000
+IoT-000001|Free Elective 1|3|0|0
+IoT-000002|Free Elective 2|3|0|0
+IoT-000003c|Free Elective 3|3|0|0
+IoT-000004|Free Elective 4|3|0|0
+IoT-000005|Free Elective 5|3|0|0
+IOT101|Internet of Things|3|4170000|5421000
+IOT102|Internet of Things|3|4170000|5421000
+IPR102|Intellectual Property Rights|3|4170000|5421000
+IPR121|Intellectual Property Rights|2|2780000|3614000
+IPR121c|Intellectual Property Rights|3|4170000|5421000
+IS-000001|Free Elective 1|3|0|0
+IS-000002|Free Elective 2|3|0|0
+IS-000002c|Free Elective 3|3|0|0
+IS-000004|Free Elective 4|3|0|0
+IS-000005|Free Elective 5|3|0|0
+IS301|IT Applications in Enterprise|3|4170000|5421000
+IS311|Principles of Accounting and Finance|3|4170000|5421000
+IS312|E-Commerce|3|4170000|5421000
+IS313|ERP Systems|3|4170000|5421000
+IS321|Advanced XML|3|4170000|5421000
+IS322|Advanced Database|3|4170000|5421000
+IS323|Data warehouse|3|4170000|5421000
+ISB101|Business Statistics|3|4170000|5421000
+ISC301|e-Commerce|3|4170000|5421000
+ISC302|E-Commerce|3|4170000|5421000
+ISM301|ERP Systems|3|4170000|5421000
+ISP391|Integrated System Project|3|4170000|5421000
+ISP490|IS Capstone Project|10|13900000|18070000
+ITA201|IT Applications in Enterprise|3|4170000|5421000
+ITA202|Management Information Systems|3|4170000|5421000
+ITA202|Management Information Systems|3|4170000|5421000
+ITA203|Information System overview|3|4170000|5421000
+ITA203c|Management information systems|3|4170000|5421000
+ITA203c|Management information systems|3|4170000|5421000
+ITA301|Information System Design & Analysis|3|4170000|5421000
+ITB301c|Business Intelligence (BI)|3|4170000|5421000
+ITE301|Ethics in Information Technology|3|4170000|5421000
+ITE302|Ethics in Information technology|3|4170000|5421000
+ITE302b|Ethics in IT|3|4170000|5421000
+ITE302c|Ethics in IT|3|4170000|5421000
+ITE303|Cyber Law and IT Ethics|3|4170000|5421000
+JBI301|Basic skills of Intereprating|3|4170000|5421000
+JBJ301|Những vấn để cơ bản về ngữ pháp tiếng Nhật - Từ lí thuyết đến thực tiễn|3|4170000|5421000
+JBP301|Ứng xử trong môi trường đối với đối tác Nhật Bản|3|4170000|5421000
+JBT301|Basic skills of Translation|3|4170000|5421000
+JFE301|Japanese IT Fundamentals|3|4170000|5421000
+JGP491|Graduation Project - Japanese Studies|10|13900000|18070000
+JGT492|Graduation Thesis - Japanese Studies|10|13900000|18070000
+JIG301|Basic Issues of Japanese Gramma|3| | 
+JIJ301|Basic issues of Japanese lexicology & phonetics|3|4170000|5421000
+JIT301|IT Japanese|3|4170000|5421000
+JIT491|Japanese for JLPT|3|4170000|5421000
+JJB391|Japanese for JLPT/BIT|3|4170000|5421000
+JJL301|Japanese Literature|3|4170000|5421000
+JLI301|Interpretation 1|3|4170000|5421000
+JLI401|Interpretation 2|3|4170000|5421000
+JLI401|Interpretation 2|3|4170000|5421000
+JLP301|Project management|3|4170000|5421000
+JLP491|Graduation Project - Japanese Studies|5|13900000|18070000
+JLP491|Graduation Project - Japanese Studies|10|13900000|18070000
+JLR301|Research Method|3|4170000|5421000
+JLR302|Phương pháp nghiên cứu|3| | 
+JLT301|Translation 1|3|4170000|5421000
+JLT401|Translation 2|3|4170000|5421000
+JLT401|Translation 2|3|4170000|5421000
+JLT491|Graduation Thesis|5|6950000|9035000
+JLT492|Graduation Thesis - Japanese Studies|10|13900000|18070000
+JMS|Japan Monozukuri & SW Development|3|4170000|5421000
+JP111|Japanese Elementary 1|4|5560000|7228000
+JP112|Japanese Elementary 2|4|5560000|7228000
+JP113|Japanese Elementary 3|4|5560000|7228000
+JP114|Japanese Elementary 4|4|5560000|7228000
+JP115|Japanese Elementary 5|4|5560000|7228000
+JP211|Japanese Intermediate 1|4|5560000|7228000
+JP221|Japanese Intermediate 2|4|5560000|7228000
+JPC301|Japanese Culture and Literature|3|4170000|5421000
+JPD111|Elementary Japanese 1.1|3|4170000|5421000
+JPD112|Elementary Japanese 1|6|8340000|10842000
+JPD112|Elementary Japanese 1|6|8340000|10842000
+JPD113|Elementary Japanese 1-A1.1|3|4170000|5421000
+JPD116|Elementary Japanese 1-A1/A2|6|8340000|10842000
+JPD121|Elementary Japanese 1.2|3|4170000|5421000
+JPD122|Elementary Japanese 2|6|8340000|10842000
+JPD122|Elementary Japanese 2|6|8340000|10842000
+JPD123|Elementary Japanese 1-A1.2|3|4170000|5421000
+JPD126|Elementary Japanese 2-A2|6|8340000|10842000
+JPD131|Elementary Japanese 2.1|3|4170000|5421000
+JPD133|Elementary Japanese1-A1/A2|3|4170000|5421000
+JPD141|Elementary Japanese 2.2|3|4170000|5421000
+JPD216|Japanese Pre-Intermediate 1-A2/B1|6|8340000|10842000
+JPD222|Japanese Pre-Intermediate 1|6|8340000|10842000
+JPD223|Japanese Pre-Intermediate 2|6|8340000|10842000
+JPD226|Japanese Pre-Intermediate 2-B1|6|8340000|10842000
+JPD316|Japanese Intermediate 1-B1/B2|6|8340000|10842000
+JPD322|Intermediate Japanese 1|6|8340000|10842000
+JPD323|Intermediate Japanese 2|6|8340000|10842000
+JPD324|Intermediate Japanese 3|6|8340000|10842000
+JPD325|Intermediate Japanese 4|6|8340000|10842000
+JPD326|Japanese Intermediate 2-B2.1|6|8340000|10842000
+JPD336|Japanese Intermediate 2-B2.2|6|8340000|10842000
+JPD346|Japanese Intermediate2-B2/C1|6|8340000|10842000
+JPG301|Japanese Vocabulary and Grammar|3|4170000|5421000
+JPL-0001|Elective 1|3|0|0
+JPL-0002|Elective 2|3|0|0
+JPL-0003|Elective 3|3|0|0
+JPL-0004|Elective 4|3|0|0
+JPL-0005|Elective 5|3|0|0
+JPL301|Japanese Literature|3|4170000|5421000
+JPP301|Phonetics|3|4170000|5421000
+JPS111|Japanese Elementary 1|3|4170000|5421000
+JPS112|Japanese Elementary 1|3|4170000|5421000
+JPS121|Japanese Elementary 2|3|4170000|5421000
+JPS122|Japanese Elementary 2|3|4170000|5421000
+JPS122|Japanese Elementary 2|3|4170000|5421000
+JPS131|Japanese Elementary 3|3|4170000|5421000
+JPS132|Japanese Elementary 3|3|4170000|5421000
+JPS141|Japanese Elementary 4|3|4170000|5421000
+JPS142|Japanese Elementary 4|3|4170000|5421000
+JPS151|Japanese Elementary 5|3|4170000|5421000
+JPS152|Japanese Elementary 5|3|4170000|5421000
+JPS211|Japanese Intermediate 1|3|8340000|10842000
+JPS212|Japanese Intermediate 1|6|8340000|10842000
+JPS221|Japanese Intermediate 2|6|8340000|10842000
+JPS222|Japanese Intermediate 2|6|8340000|10842000
+JPS301|Japanese Study|3|4170000|5421000
+JPT491|Graduation Thesis|5|6950000|9035000
+JSC301|Japanese Studies & and Japanese Culture|3|4170000|5421000
+JSC301|Japanese Studies & and Japanese Culture|3|4170000|5421000
+LAB101|C Lab|3|4170000|5421000
+LAB211|OOP with Java Lab|3|4170000|5421000
+LAB221|Desktop Java Lab|3|4170000|5421000
+LAB231|Web Java Lab|3|4170000|5421000
+LAB301|C#.NET Lab|3|4170000|5421000
+LAW101|Business Law Fundamentals|3|4170000|5421000
+LAW102|Business Law and Ethics Fundamentals|3|4170000|5421000
+LAW201|Media Law and Ethics|3|4170000|5421000
+LAW202c|Intellectual Property Rights|3|4170000|5421000
+LIT101|English Literature|3|4170000|5421000
+LIT301|British and American Literature|3|4170000|5421000
+LTG201|Introduction to linguistics|3|4170000|5421000
+LTG202|Introduction to linguistics|3|4170000|5421000
+LTG203|Introduction to liguistics (in Japanness)|3|4170000|5421000
+LTG203|Introduction to liguistics (in Japanness)|3|4170000|5421000
+LTJ301|Japanese Theory|3|4170000|5421000
+LUK.PM|LUK.PM|0|0|0
+LUK1|Level 1|0|10350000|10350000
+LUK2|Level 2|0|10350000|10350000
+LUK3|Level 3|0|10350000|10350000
+LUK4|Level 4|0|10350000|10350000
+LUK5|Level 5|0|10350000|10350000
+LUK6|Level 6|0|10350000|10350000
+MA101|Advanced Mathematics 1|3|4170000|5421000
+MA102|Advanced Mathematics 2|3|4170000|5421000
+MA201|Statistics and Probability|3|4170000|5421000
+MAA101|Advanced Mathematics 2|3|4170000|5421000
+MAC001|Precalculus|3|4170000|5421000
+MAC101|Advanced Mathematics 1|3|4170000|5421000
+MAC102|Advanced Mathematics for Business|3|4170000|5421000
+MAC102|Advanced Mathematics for Business|3|4170000|5421000
+MAC102|Advanced Mathematics for Business|3|4170000|5421000
+MAC201|Calculus 2|3|4170000|5421000
+MAD101|Discrete mathematics|3|4170000|5421000
+MAD111|Discrete Mathematics 1|3|4170000|5421000
+MAD121|Discrete Mathematics 2|3|4170000|5421000
+MAE101|Mathematics for Engineering|3|4170000|5421000
+MAI391|Advanced mathematics|3|4170000|5421000
+MAN201|Numerical Methods|3|4170000|5421000
+MAN201|Numerical Methods|3|4170000|5421000
+MAO301|Combinatorial Optimizations|3|4170000|5421000
+MAO302|Linear Optimization|3|4170000|5421000
+MAS201|Statistics and data processing|3|4170000|5421000
+MAS202|Applied Statistics for Business|3|4170000|5421000
+MAS291|Statistics and Probability|3|4170000|5421000
+MBS391|Wireless & Mobile Communication|3|4170000|5421000
+MC-000001|Concentration Elective 1|3|0|0
+MC-000002|Concentration Elective 2|3|0|0
+MC-000003|Concentration Elective 3|3|0|0
+MC-000004|Concentration Elective 4|3|0|0
+MC-000005|Major Elective Group 1|3|0|0
+MC-000006|Major Elective Group 2|3|0|0
+MC-000007|Major Elective Group 3|3|0|0
+MC-0001c|Elective 1|3|0|0
+MC-0002|Elective 2|3|0|0
+MC-0003|Elective 3|3|0|0
+MC-0004|Elective 4|3|0|0
+MC-0005|Elective 5|3|0|0
+MCO201|Transmedia Storytelling|3|4170000|5421000
+MCO201m|Transmedia Storytelling|3|4170000|5421000
+MCO206|Intercultural Communication|3|4170000|5421000
+MCO301|Research methods in Communication|3|4170000|5421000
+MCP301|Micro-controller programming|3|4170000|5421000
+MED201|New Media Technology|3|4170000|5421000
+MEP201|Multimedia Production Project|3|4170000|5421000
+MG101|Introduction to Management|3|4170000|5421000
+MGT101|Introduction to Management|3|4170000|5421000
+MGT101|Introduction to Management|3|4170000|5421000
+MGT102|Management Principle|3|4170000|5421000
+MGT103|Introduction to Management|3|4170000|5421000
+MKD301|Digital Marketing|3|4170000|5421000
+MKT101|Marketing Principles|3|4170000|5421000
+MKT201|Consumer Behavior|3|4170000|5421000
+MKT201|Consumer Behavior|3|4170000|5421000
+MKT202|Services Marketing Management|3|4170000|5421000
+MKT202|Services Marketing Management|3|4170000|5421000
+MKT204|International Marketing|3|4170000|5421000
+MKT204c|International Marketing|3|4170000|5421000
+MKT205c|International Marketing|3|4170000|5421000
+MKT208c|Social media marketing|3|4170000|5421000
+MKT301|Marketing Research|3|4170000|5421000
+MKT301|Marketing Research|3|4170000|5421000
+MKT301|Marketing Research|3|4170000|5421000
+MKT304|Integrated Marketing Communications|3|4170000|5421000
+MKT304|Integrated Marketing Communications|3|4170000|5421000
+MKT305|Marketing Strategy|3|4170000|5421000
+MKT306|Marketing Channel|3|4170000|5421000
+MKT307|Customer Relationship Management|3|4170000|5421000
+MKT308|Digital Marketing|3|4170000|5421000
+MKT308b|Digital Marketing|3|4170000|5421000
+MKT308m|Digital Marketing|3|4170000|5421000
+MKT308m|Digital Marketing|3|4170000|5421000
+MKT318|Digital marketing 1|3|4170000|5421000
+MKT318m|Digital marketing 1|3|4170000|5421000
+MKT328|Digital marketing 2|3|4170000|5421000
+MKT328m|Digital Marketing 2|3|4170000|5421000
+MLN101|Principles of Marxism - Leninism|5|6950000|9035000
+MLN111|Philosophy of Marxism – Leninism|3|4170000|5421000
+MLN121|Principles of Marxism Leninism|5|6950000|9035000
+MLN122|Political economics of Marxism – Leninism|2|2780000|3614000
+MLN122|Political economics of Marxism – Leninism|2|2780000|3614000
+MLN131|Scientific socialism|2|2780000|3614000
+MMA001|Monney Minded|0|0|0
+MMM101|Monney Minded|0|0|0
+MMP101|Media Psychology|3|4170000|5421000
+MMP201|Media Psychology|3|4170000|5421000
+MPL201|Strategic Media Planning|3|4170000|5421000
+NLP301|Natural Language Processing|3|4170000|5421000
+NLP301c|Natural Language Processing|3|0|0 
+NMN101|Traditional Instrument Night|0|0|0
+NWC201|Networking|2|2780000|3614000
+NWC202|Computer Networking|3|4170000|5421000
+NWC202c|Computer Networking|3|4170000|5421000
+NWC203c|Computer Networking|3|4170000|5421000
+NWC301|Advanced Networking|3|4170000|5421000
+NWC302|Network Connetivity|3|4170000|5421000
+NWC401|Network Connectivity|3|4170000|5421000
+OB201|Organization Behavior|3|4170000|5421000
+OBE101|Organizational Behavior|3|4170000|5421000
+OBE101c|Organizational Behavior|3|4170000|5421000
+OBE102c|Organizational Behavior|3|4170000|5421000
+OFC311|Optical Communications|3|4170000|5421000
+OFC321|Optical Fiber Communications 2|3|4170000|5421000
+OJA201|On the job training|10|13900000|18070000
+OJB201|On the job training|10|13900000|18070000
+OJB202|On-the-job training|10|13900000|18070000
+OJB211|On the job training|10|13900000|18070000
+OJB211|On the job training|10|13900000|18070000
+OJB211|On the job training|10|13900000|18070000
+OJC201|On the job training|10|13900000|18070000
+OJE201|On the job training|10|13900000|18070000
+OJE202|On-the-job training|10|13900000|18070000
+OJG201|On the job training|10|13900000|18070000
+OJH201|On the job training|10|13900000|18070000
+OJK201|On the job training|10|13900000|18070000
+OJL201|On the job training|10|13900000|18070000
+OJM201|On the job training|10|13900000|18070000
+OJP202|On-the-job training|10|13900000|18070000
+OJS201|On the job training|10|13900000|18070000
+OJS211|On the Job Training 1|10|6950000|9035000
+OJS221|On the Job Training 2|5|6950000|9035000
+OJS231|On the Job Training 3|5|6950000|9035000
+OJT201|On the job training|10|13900000|18070000
+OJT202|On the job training|10|13900000|18070000
+ORG101|Orientation|0|0|0
+ORT101|Orientation|0|0|0
+ORT102|Orientation IT|0|0|0
+ORT103|Orientation Examination|0|0|0
+ORT104|Orientation Academic|0|0|0
+ORT105|Orientation Library|0|0|0
+ORT106|Orientation Accounting|0|0|0
+OSG201|Operating Systems|2|2780000|3614000
+OSG202|Operating Systems|3|4170000|5421000
+OSP201|Open Source Platform and Network Administration|3|4170000|5421000
+PCCC|PCCC|0|0|0
+PDP101|Kỹ năng sinh tồn tại Hòa Lạc|0|0|0
+PDP102|Hoạt động Văn thể|0|0|0
+PDP103|Lễ trưởng thành|0|0|0
+PFD201|Photography for Designer|3|4170000|5421000
+PFD202|Nhiếp ảnh|3|4170000|5421000
+PFL401|Portfolio Design|3|4170000|5421000
+PHY101|Physics|3|4170000|5421000
+PHY101|Physics|3|4170000|5421000
+PHY121|Physics (Lab)|1|1390000|1807000
+PHY201|Modern physics|3|4170000|5421000
+PLT101|Placement Test|0|0|0
+PMG201c|Project management|3|4170000|5421000
+PRC391|Cloud Computing|3|4170000|5421000
+PRE201|Excel Programming|3|4170000|5421000
+PRE201|Excel Programming|3|4170000|5421000
+PRE202|Public Relations Principles and Strategies|3|4170000|5421000
+PRF191|Programming Fundamentals|4|5560000|7228000
+PRF192|Programming Fundamentals|3|4170000|5421000
+PRJ101|Core Java|3|4170000|5421000
+PRJ102|Core Java|3|4170000|5421000
+PRJ201|Advanced Java|3|4170000|5421000
+PRJ202|Advanced Java|3|4170000|5421000
+PRJ301|Java Web Application Development|3|4170000|5421000
+PRJ311|Desktop Java Applications|3|4170000|5421000
+PRJ321|Web-Based Java Applications|3|4170000|5421000
+PRM301|Mobile Programming|3|4170000|5421000
+PRM391|Mobile Programming|3|4170000|5421000
+PRN211|Basic Cross-Platform Application Programming With .NET|3|4170000|5421000
+PRN291|.NET and C#|4|5560000|7228000
+PRN292|.NET and C#|3|4170000|5421000
+PRO001|Programming with Alice|1|1390000|1807000
+PRO191|Object-Oriented Paradigm (C++)|3|4170000|5421000
+PRO192|Object-Oriented Programming|3|4170000|5421000
+PRO201|Front-end Web Development|3|4170000|5421000
+PRO201c|Web Design for Everybody|3|4170000|5421000
+PRO201m|Web Design for Everybody|3|4170000|5421000
+PRO201m|Web Design for Everybody|3|4170000|5421000
+PRP201|Python programming|3|4170000|5421000
+PRP201c|Python programming|3|4170000|5421000
+PRS301|System Programming|3|4170000|5421000
+PRX301|Web Development (XML)|3|4170000|5421000
+PST201|Perspective|2|2780000|3614000
+PST202|Perspective|3|4170000|5421000
+PST301|Intermediate Visual Principles|3|4170000|5421000
+RMB301|Business Research Methods|3|4170000|5421000
+SAL301|Professional Selling|3|4170000|5421000
+SAL301|Professional Selling|3|4170000|5421000
+SAL301m|Professional Selling|3|4170000|5421000
+SAL302|Salesforce Management|3|4170000|5421000
+SCI201|Information Security|3|4170000|5421000
+SCM201|Supply Chain Management|3|4170000|5421000
+SCM201|Supply Chain Management|3|4170000|5421000
+SCM201m|Supply Chain Management|3|4170000|5421000
+SDP201|Sound Production|3|4170000|5421000
+SDP201|Sound Production|3|4170000|5421000
+SE-000001|Specialization 1|3|0|0
+SE-000002|Specialization 2|3|0|0
+SE-000003|Specialization 3|3|0|0
+SE-000004|Specialization 4|3|0|0
+SE-000005|Specialization 5|3|0|0
+SE-0001|Elective 1|3|0|0
+SE-0002|Elective 2|3|0|0
+SE-0003c|Elective 3|3|0|0
+SE-0004|Elective 4|3|0|0
+SE-0005|Elective 5|3|0|0
+SE101|Introduction to Software Engineering|3|4170000|5421000
+SE211|Software Construction|3|4170000|5421000
+SE212|Human-Computer Interaction|3|4170000|5421000
+SE213|Software Requirements|3|4170000|5421000
+SE214|Software Quality Assurance & Testing|3|4170000|5421000
+SE216|IT Project Management|3|4170000|5421000
+SE300|software entrepreneurship|3|4170000|5421000
+SE315|Software Architecture and Design|3|4170000|5421000
+SE400-ES|Capstone Project|10|13900000|18070000
+SE400-IS|Capstone Project|10|13900000|18070000
+SEM101|Semantics|3|4170000|5421000
+SEP490|SE Capstone Project|10|13900000|18070000
+SGG201|Computer Graphics|3|4170000|5421000
+SPD401|System Planning and Design|3|4170000|5421000
+SPM401|Security Project Management|3|4170000|5421000
+SRE301|Software Reverse Engineering|3|4170000|5421000
+SS101|Business Communication|1|1390000|1807000
+SS102|Working in Group|1|1390000|1807000
+SS102-2|Working in Group|3|4170000|5421000
+SS201|Business Communication|3|4170000|5421000
+SSB201|Advanced Business Communication|3|4170000|5421000
+SSC001|Business Communication|1|1390000|1807000
+SSC101|Business Communication|3|4170000|5421000
+SSC102|Business Communication|3|4170000|5421000
+SSC102|Business Communication|3|4170000|5421000
+SSC103|Business Communication|3|4170000|5421000
+SSC201|Effective presentation skills|3|4170000|5421000
+SSC302|Advanced Presentation Skills|3|4170000|5421000
+SSC302c|Advanced Presentation skills|3|4170000|5421000
+SSG001|Working in Group|1|1390000|1807000
+SSG101|Working in Group Skills|3|4170000|5421000
+SSG101-ST08|Working in groups|3|0|0
+SSG102|Working in Group|3|4170000|5421000
+SSG103|Communication and In-Group Working Skills|3|4170000|5421000
+SSG104|Communication and In-Group Working Skills|3|| 
+SSL101|Studying skill|0|4170000|5421000
+SSL101c|Studying skill|3|4170000|5421000
+SSM201|Management Skills|3|4170000|5421000
+SSM201|Management Skills|3|4170000|5421000
+SSN301|Negotiation|3|4170000|5421000
+SSP201|Pitching creative ideas|3|4170000|5421000
+SSS101|Study skill|0|0|0
+SWC101|Software development process|3|4170000|5421000
+SWC201|Software Construction|3|4170000|5421000
+SWC202|Software Construction|3|4170000|5421000
+SWD391|Software Architecture and Design|3|4170000|5421000
+SWD391c|SW Architecture and Design|3|4170000|5421000
+SWE101|Introduction to Software Engineering|3|4170000|5421000
+SWE102|Introduction to Software Engineering|3|4170000|5421000
+SWE201c|Introduction to Software Engineering|3|4170000|5421000
+SWM301|Software project management|3|4170000|5421000
+SWM301b|Software project management|3|4170000|5421000
+SWM301c|Software project management|3|4170000|5421000
+SWP391|Application development project|3|4170000|5421000
+SWP490|Capstone Project|10|13900000|18070000
+SWP491|Capstone Project|10|13900000|18070000
+SWP492|Capstone Project|10|13900000|18070000
+SWP493|Capstone Project|10|13900000|18070000
+SWQ391|Software Quality Assurance and Testing|3|4170000|5421000
+SWR301|Software Requirements|3|4170000|5421000
+SWR302|Software Requirement|3|4170000|5421000
+SWT301|Software Testing|3|4170000|5421000
+SYB301|Start Your Business|0|3450000|4485000
+SYB301b|Start Your Business|0|3450000|4485000
+SYB301c|Start Your Business|3|4170000|5421000
+SYB302c|Entrepreneurship|3|4170000|5421000
+SYB302c|Entrepreneurship|3|4170000|5421000
+SYB303c|Start Your Business|3|4170000|5421000
+TMI101|Traditional musical instrument|3|4170000|5421000
+TPG201|Typography 1|3|4170000|5421000
+TPG202|Typography 1|3|4170000|5421000
+TPG203|Basic typography & Layout|3|4170000|5421000
+TPG301|Typography 2|3|4170000|5421000
+TPG302|Typography & E-publication|3|4170000|5421000
+TRG101|Trống|0|4170000|5421000
+TRG102|Traditional musical instrument|3|4170000|5421000
+TRS401|English 4|0|10350000|10350000
+TRS501|English 5|0|10350000|10350000
+TRS502|English 5|6|10350000|10350000
+TRS6|Transition|0|10350000|10350000
+TRS601|Transition|0|10350000|10350000
+VCM201|Visual Communication|3|4170000|5421000
+VCM202|Visual Communication|3|4170000|5421000
+VDP201|Video Production|3|4170000|5421000
+VNC101|Vietnamese Cultural|2|2780000|3614000
+VNC102|Vietnamese Culture|3|4170000|5421000
+VNC103|Vietnamese culture base|3|4170000|5421000
+VNC104|Vietnamese Culture|3| | 
+VNF001|Vietnamese 1|3|4170000|5421000
+VNL111|Vietnamese 1|3|4170000|5421000
+VNL121|Vietnamese 2|3|4170000|5421000
+VNL131|Vietnamese 3|3|4170000|5421000
+VNR201|Revolutionary line of CPV|3|4170000|5421000
+VNR202|History of Việt Nam Communist Party|2|2780000|3614000
+VO101|Vovinam 1|2|2780000|3614000
+VO102|Vovinam 2|2|2780000|3614000
+VO103|Vovinam 3|2|2780000|3614000
+VO104|Vovinam 4|2|2780000|3614000
+VOV111|Vovinam 1|2|2780000|3614000
+VOV112|Vovinam 1|1|1390000|1807000
+VOV113|Vovinam 2|1|1390000|1807000
+VOV114|Vovinam 1|2|2780000|3614000
+VOV121|Vovinam 2|2|2780000|3614000
+VOV122|Vovinam 3|1|1390000|1807000
+VOV123|Vovinam 4|1|1390000|1807000
+VOV124|Vovinam 2|2|2780000|3614000
+VOV131|Vovinam 3|2|2780000|3614000
+VOV132|Vovinam 5|1|1390000|1807000
+VOV133|Vovinam 6|1|1390000|1807000
+VOV134|Vovinam 3|2|2780000|3614000
+VOV135|Võ nâng cao|0|0|0
+VOV141|Vovinam 4|2|2780000|3614000
+WDL202|Web layout design|3|4170000|5421000
+WDL301|Web Design 1|3|4170000|5421000
+WDT401|Web Design 2|3|4170000|5421000
+WDU201|Principles of UX|3|4170000|5421000
+WDU201c|Principles of UX|3|4170000|5421000
+WDU202c|UI/UX Design|3|4170000|5421000
+WEB101|Web Design|1|1390000|1807000
+WED201c|Web Design|3|4170000|5421000
+WIR201|Interaction design|3|4170000|5421000
+WMC201|Media Writing|3|4170000|5421000
+WMC201|Media Writing|3|4170000|5421000
+WMT201|Web and Mobility Technology|3|4170000|5421000
+ÐBA101|Đàn Bầu|0|4170000|5421000
+ÐBA102|Traditional musical instrument|3|4170000|5421000
+ÐNG101|Đàn Nguyệt|0|4170000|5421000
+ÐNG102|Traditional musical instrument|3|4170000|5421000
+ÐNH101|Đàn Nhị|0|4170000|5421000
+ÐNH102|Traditional musical instrument|3|4170000|5421000
+ÐSA101|Sáo trúc|0|4170000|5421000
+ÐSA102|Traditional musical instrument|3|4170000|5421000
+ÐTB101|Đàn Tỳ bà|0|4170000|5421000
+ÐTB102|Traditional musical instrument|3|4170000|5421000
+ÐTR101|Đàn Tranh|0|4170000|5421000
+ÐTR102|Traditional musical instrument|3|4170000|5421000
